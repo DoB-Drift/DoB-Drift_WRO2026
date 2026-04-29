@@ -8,8 +8,7 @@ DOB Drift is a robotics team from Bangladesh competing in the World Robot Olympi
 
 We focus on building a high-performance autonomous robot that integrates real-time perception, embedded control, and intelligent decision-making.
 
-Our robot is designed for:
-
+🎯 Our Robot Goals
 Precision navigation
 Sensor fusion-based localization
 Autonomous obstacle handling
@@ -22,6 +21,7 @@ Our robot is built for WRO Future Engineers 2026, capable of:
 🚧 Detecting and avoiding obstacles
 🎯 Performing precise parking
 🧭 Real-time localization using sensor fusion
+⚙️ Core System
 
 We combine:
 
@@ -58,7 +58,9 @@ Accurate lap counting
 🟢 Green → move left
 🔴 Red → move right
 Final precise parking
+
 📁 Repository Structure
+
 DOB-Drift/
 │
 ├── assets/        # Images & visuals
@@ -68,38 +70,52 @@ DOB-Drift/
 ├── t-photos/      # Technical images
 ├── v-photos/      # Showcase images
 ├── video/         # Demo videos
+
 ⚙️ System Architecture
-🧠 Sensor Fusion:
+🧠 Sensor Fusion
+
 Encoder + IMU + LiDAR
-🎯 Decision System:
+
+🎯 Decision System
+
 Rule-based state machine
-🎥 Vision System:
+
+🎥 Vision System
+
 Color-based object detection
-⚡ Control System:
-ESP32 (low-level)
+
+⚡ Control System
+ESP32 (low-level control)
 Raspberry Pi (high-level planning)
 🚗 Mobility System
-Lego based Differential Drive
+Differential Drive
 Smooth turning
 Encoder-based tracking
 Stable motion control
-Hybrid lego-Servo Steering
-Ackermann-inspired geometry
+Servo Steering (Ackermann-inspired)
 Precision directional control
 Supports camera/LiDAR positioning
+Hybrid LEGO + servo mechanism
 🔋 Power System
 🔋 3S LiPo Battery
-⚡ Dual Buck Converter System:
-Raspberry Pi + sensors (stable rail)
-Servos + peripherals (high-current rail)
-🔇 Noise isolation improves sensor accuracy
+⚡ Dual Buck Converter System
+Raspberry Pi + sensors → stable rail
+Servos + peripherals → high-current rail
+🔇 Benefit
+
+Improved noise isolation → better sensor accuracy
+
 👥 Team Members
 🧑‍💻 Md Ayaan Rahman
+
 Embedded Systems & Robotics
 DOB Drift — WRO Future Engineers
+
 🧑‍💻 Shreyan Chakroborty
+
 Software, Control Systems & AI
 DOB Drift — WRO Future Engineers
+
 🌐 Connect With Us
 📘 Facebook
 💼 LinkedIn
