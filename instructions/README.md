@@ -12,11 +12,11 @@ The challenge is divided into **two main rounds**, each testing different aspect
 
 ### 🟦 Round 1 Track (Open Challenge)
 
-![Round 1 Track](round1_track.png)
+![Round 1 Track](R1.png)
 
 ### 🟥 Round 2 Track (Obstacle Challenge)
 
-![Round 2 Track](round2_track.png)
+![Round 2 Track](R2.png)
 
 ---
 
