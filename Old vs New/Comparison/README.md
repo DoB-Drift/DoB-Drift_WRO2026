@@ -1,11 +1,3 @@
-### V1
-
-![Old Design](old.png)
-
-### New Design
-
-![New Design](new.png)
-
 🤖 WRO FE Robot Evolution — V1 vs V2 vs V3
 🧩 Overview
 
