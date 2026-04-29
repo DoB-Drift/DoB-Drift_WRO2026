@@ -1,6 +1,6 @@
 # 🤖 DOB Drift — WRO Future Engineers Robot
 
-![lego](lego.png)
+![lego](logo.png)
 
 ---
 
