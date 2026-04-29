@@ -10,11 +10,11 @@ This document compares the previous and updated versions of the **DOB Drift chas
 
 ### Old Design
 
-![Old Design](old_design.png)
+![Old Design](old.png)
 
 ### New Design
 
-![New Design](new_design.png)
+![New Design](new.png)
 
 ---
 
